@@ -8,4 +8,4 @@ I am currenlty trying to learn Java!
 
 I have experience in  R, RStudio, C, LaTex, Overleaf, Scheme, Racket and Python.
 
-Projects posted on here are my own, and are not for classes.
+Projects posted on here are my own, and some of them may be for my object-oriented programming class!
